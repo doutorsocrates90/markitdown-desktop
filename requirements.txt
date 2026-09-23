@@ -1,0 +1,2 @@
+markitdown[pdf]==0.1.8
+pywebview==6.2.1
